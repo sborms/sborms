@@ -22,6 +22,6 @@ These are the papers I have worked on:
 
 ### Personal
 
-⚽ Likes sports, mostly football, tennis, cycling, and kickboxing.
+⚽ Likes sports, especially football, tennis, cycling, and kickboxing.
 
-🎸 2021's Spotify Wrapped list disclosed Interpol, New Order, The Cure, The National, and Nicolas Jaar as the five music bands I listen most to.
+🎸 2021's Spotify Wrapped list disclosed Interpol, New Order, The Cure, The National, and Nicolas Jaar as the five music bands I have been listening most to.
