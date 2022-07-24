@@ -2,21 +2,21 @@
 
 ## Professional
 
-📊 I am a freelance Data Scientist working across various industries. 
+📊 I am a freelance data professional, typically acting the role of Data Scientist.
 
-⚡ My main learning focus is expanding my knowledge in data visualization, and MLOps & related Azure cloud solutions.
+⚡ My main learning focus is to expand my knowledge in MLOps and data journalism.
 
 ## Personal
 
-🏠 Lives in Brussels.
+🏠 Lives in Brussels, but likes the occasional travel.
 
-⚽ Likes sports, especially (indoor) football, running, tennis, cycling, and martial arts. Some of those I actively practice (or did so), others I prefer watching.
+⚽ Enjoys sports, especially (indoor) football, running, tennis, cycling, and martial arts. Some of those I actively practice (or did so), others I prefer watching.
 
 🎸 2021's Spotify Wrapped list disclosed Interpol, New Order, The Cure, The National, and Nicolas Jaar as the five music bands (or in case of the latter, musician) I recently have been listening most to.
 
 ## Academic
 
-🎓 In 2020, I obtained a joint PhD in Finance and Business Economics from the University of Neuchatel and the Vrije Universiteit Brussel. 
+🎓 In 2020, I obtained a joint PhD in Finance and Business Economics from the Université de Neuchâtel and the Vrije Universiteit Brussel. 
 
 📝 My research was about sentiment analysis of textual data and the usefulness of it in time series modeling. These are the published papers I have worked on:
 
