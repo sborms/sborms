@@ -4,15 +4,15 @@
 
 📊 I am a freelance data professional, typically acting the role of Data Scientist.
 
-⚡ My main learning focus is to expand my knowledge in MLOps and data journalism.
+⚡ My main learning focus is to expand my knowledge in data journalism and MLOps.
 
 ## Personal
 
 🏠 Lives in Brussels, but likes the occasional travel.
 
-⚽ Enjoys sports, especially (indoor) football, running, tennis, cycling, and martial arts. Some of those I actively practice (or did so), others I prefer watching.
+🎸 2021's Spotify Wrapped list disclosed Interpol, New Order, The Cure, The National, and Nicolas Jaar as the five music bands (or in case of the latter, musician) I seem to be most into lately.
 
-🎸 2021's Spotify Wrapped list disclosed Interpol, New Order, The Cure, The National, and Nicolas Jaar as the five music bands (or in case of the latter, musician) I recently have been listening most to.
+⚽ Enjoys sports, especially (indoor) football, running, tennis, cycling, and martial arts. Some of those I actively practice (or did so), others I prefer watching.
 
 ## Academic
 
