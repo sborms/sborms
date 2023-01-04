@@ -4,7 +4,7 @@
 
 📊 I am a freelance data professional, typically acting the role of data scientist.
 
-⚡ My main learning focus is to expand my skill set in data journalism, football analytics, and MLOps.
+⚡ My main learning focus is to expand my skill set in data journalism, football analytics, and MLOps. I write about some of this on [Medium](https://medium.com/@sborms).
 
 ## Personal
 
@@ -16,7 +16,7 @@
 
 ## Academic
 
-🎓 In 2020, I obtained a joint PhD in Finance and Business Economics from the Université de Neuchâtel and the Vrije Universiteit Brussel. 
+🎓 In 2020, I obtained a joint PhD in Finance & Business Economics from the Université de Neuchâtel and the Vrije Universiteit Brussel. 
 
 📝 My research was about sentiment analysis of textual data and the usefulness of it in time series modeling. These are the published papers I have worked on:
 
