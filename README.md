@@ -4,7 +4,9 @@
 
 📊 I am a freelance data professional, typically acting the role of data scientist.
 
-⚡ My main learning focus is to expand my skill set in deep learning, data storytelling, football analytics, and MLOps. I write about this and more on [Medium](https://medium.com/@sborms).
+⚡ My main learning focus is to expand my skill set in data storytelling, football analytics, MLOps, and NLP.
+
+✍️ I occasionally write about the above and more on [Medium](https://medium.com/@sborms) and my [blog](https://samborms.com/writings/).
 
 ## Personal
 
