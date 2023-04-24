@@ -1,18 +1,20 @@
 # Hello 👋
 
+_Is it me you're looking for?_
+
 ## Professional
 
-📊 I am a freelance data professional, typically acting the role of data scientist.
+📊 I am a freelance data professional, typically acting the role of **data scientist**.
 
 ⚡ My main learning focus is to expand my skill set in data storytelling, football analytics, MLOps, and NLP.
 
-✍️ I occasionally write about the above and more on [Medium](https://medium.com/@sborms) and my [blog](https://samborms.com/writings/).
+✍️ I sometimes write about the above and more on [Medium](https://medium.com/@sborms) and my [blog](https://samborms.com/writings/).
 
 ## Personal
 
 🏠 Lives in Brussels, but likes the occasional travel.
 
-🎸 Spotify's 2021 and 2022 Wrapped lists disclosed Interpol, New Order, The Cure, The National, Nicolas Jaar, Red Hot Chili Peppers, Radiohead and Arctic Monkeys as the music I seem to be most into lately.
+🎸 Spotify's 2021 and 2022 Wrapped lists disclosed Interpol, New Order, The Cure, The National, Nicolas Jaar, Red Hot Chili Peppers, Radiohead and Arctic Monkeys as the music I seem to be most into lately. What will 2023 be like?
 
 ⚽ Enjoys playing and/or watching sports, especially (indoor) football, running, tennis, cycling, and martial arts.
 
