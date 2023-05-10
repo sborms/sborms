@@ -1,6 +1,13 @@
 # Hello 👋
 
-_Is it me you're looking for?_
+Is it me you're looking for? Probably not, but while you are here let me tell you a bit about myself.
+
+Oh and in case you'd like to reach out to me, one of these platforms is best:
+<p>
+ <a href="https://twitter.com/samborms" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
+ <a href="https://www.linkedin.com/in/sam-borms" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+ <a href="https://medium.com/@sborms" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
+</p>
 
 ## Professional
 
@@ -18,7 +25,7 @@ _Is it me you're looking for?_
 
 ⚽ Enjoys playing and/or watching sports, especially (indoor) football, running, tennis, cycling, and martial arts.
 
-## Academic
+## Research
 
 🎓 In 2020, I obtained a joint PhD in Finance & Business Economics from the Université de Neuchâtel and the Vrije Universiteit Brussel. 
 
@@ -42,10 +49,3 @@ _Is it me you're looking for?_
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=sborms&show_icons=true&locale=en&layout=compact&theme=light" alt="Gift's language"/>
 </div>
 <!-- GitHub section: END -->
-
-## Get in touch!
-<p>
- <a href="https://twitter.com/samborms" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
- <a href="https://www.linkedin.com/in/sam-borms" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
- <a href="https://medium.com/@sborms" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
-</p>
