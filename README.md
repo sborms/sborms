@@ -21,7 +21,7 @@ Oh and in case you'd like to reach out to me, one of these platforms is best:
 
 🏠 Lives in Brussels, but likes the occasional travel.
 
-🎸 Spotify's 2021 and 2022 Wrapped lists disclosed Interpol, New Order, The Cure, The National, Nicolas Jaar, Red Hot Chili Peppers, Radiohead and Arctic Monkeys as the music I seem to be most into lately. What will 2023 be like?
+🎸 Spotify's 2021 to 2023 Wrapped lists disclosed Interpol, New Order, The Cure, The National, Nicolas Jaar, Red Hot Chili Peppers, Radiohead, Arctic Monkeys, The Strokes and John Frusciante as the music I seem to be most into. Will 2024 bring something different?
 
 ⚽ Enjoys playing and/or watching sports, especially (indoor) football, running, tennis, cycling, and martial arts.
 
