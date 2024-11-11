@@ -1,6 +1,6 @@
 # Hello 👋
 
-Is it me you're looking for? Probably not, but while you are here let me tell you a bit about myself (be warned, there's going to be a lot of "I").
+Is it me you're looking for? Probably not, but while you are here let me tell you a bit about myself.
 
 In case you'd like to reach out to me, one of these platforms is best:
 <p>
@@ -21,7 +21,7 @@ In case you'd like to reach out to me, one of these platforms is best:
 
 🏠 I live in Brussels, but I do like the occasional travel.
 
-🎸 I mostly listen to (at least according to Spotify's Wrapped lists since 2021) Interpol, New Order, The Cure, The National, Nicolas Jaar, Red Hot Chili Peppers, Radiohead, Arctic Monkeys, The Strokes, and John Frusciante.
+🎸 I mostly listen to (at least according to Spotify's Wrapped lists since 2021): Interpol, New Order, The Cure, The National, Nicolas Jaar, Red Hot Chili Peppers, Radiohead, Arctic Monkeys, The Strokes, and John Frusciante.
 
 ⚽ I enjoy playing and/or watching sports, especially (indoor) football, running, tennis, cycling, and martial arts.
 
