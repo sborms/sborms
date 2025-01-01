@@ -21,7 +21,7 @@ In case you'd like to reach, one of these platforms is best:
 
 🏠 I live in Brussels, but I do like the occasional travel.
 
-🎸 I mostly listen to (at least according to Spotify's Wrapped lists since 2021): Interpol, New Order, The Cure, The National, Nicolas Jaar, Red Hot Chili Peppers, Radiohead, Arctic Monkeys, The Strokes, and John Frusciante.
+🎸 I mostly listen to (according to Spotify's Wrapped lists since 2021): Interpol, New Order, The Cure, The National, The Smile, Khruangbin, Nicolas Jaar, Red Hot Chili Peppers, Radiohead, Arctic Monkeys, The Strokes, and John Frusciante.
 
 ⚽ I enjoy playing and/or watching sports, especially (indoor) football, running, tennis, cycling, and martial arts.
 
