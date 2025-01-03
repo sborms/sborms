@@ -14,7 +14,7 @@ In case you'd like to reach, one of these platforms is best:
 
 ⚡ I would like to expand or solidify my skill set in data storytelling, football analytics, MLOps, and NLP.
 
-✍️ I sometimes write about the above and more on [Medium](https://medium.com/@sborms) and my [blog](https://samborms.com/writings/).
+✍️ I sometimes write about the above and more on [Medium](https://medium.com/@sborms).
 
 ## Personal
 
