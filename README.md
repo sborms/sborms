@@ -2,7 +2,7 @@
 
 Is it me you're looking for? Probably not, but while you are here let me tell you a bit about myself.
 
-In case you'd like to reach, one of these platforms is best:
+In case you'd like to reach me, one of these platforms is best:
 <p>
 <a href="https://www.linkedin.com/in/sam-borms" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://medium.com/@sborms" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
