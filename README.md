@@ -16,6 +16,12 @@ In case you'd like to reach me, one of these platforms is best:
 
 ✍️ I sometimes write about the above and more on [Medium](https://medium.com/@sborms).
 
+### Research
+
+🎓 I obtained a joint PhD in Finance & Business Economics from the Université de Neuchâtel and the Vrije Universiteit Brussel in 2020. 
+
+📝 I published a couple of [papers](https://scholar.google.com/citations?user=Bvk7MPoAAAAJ) about sentiment analysis of textual data and the usefulness of it in time series modeling.
+
 ## Personal
 
 🏠 I live in Brussels, but I do like the occasional travel.
@@ -23,18 +29,3 @@ In case you'd like to reach me, one of these platforms is best:
 🎸 I mostly listen to (according to Spotify's Wrapped lists since 2021): Interpol, New Order, The Cure, The National, The Smile, Khruangbin, Nicolas Jaar, Red Hot Chili Peppers, Radiohead, Arctic Monkeys, The Strokes, and John Frusciante.
 
 ⚽ I enjoy playing and/or watching sports, especially (indoor) football, running, tennis, cycling, and martial arts.
-
-## Research
-
-🎓 I obtained a joint PhD in Finance & Business Economics from the Université de Neuchâtel and the Vrije Universiteit Brussel in 2020. 
-
-📝 I published a couple of [papers](https://scholar.google.com/citations?user=Bvk7MPoAAAAJ) about sentiment analysis of textual data and the usefulness of it in time series modeling.
-
-<!-- GitHub section -->
-## Stats <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px> 
- 
-<div>
-<!-- <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sborms" alt="Gift's LangStat" height="192px" width="470px"/> -->
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=sborms&show_icons=true&locale=en&layout=compact&theme=light" alt="Gift's language"/>
-</div>
-<!-- GitHub section: END -->
