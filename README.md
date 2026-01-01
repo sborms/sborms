@@ -18,14 +18,14 @@ In case you want to reach out to me, one of these platforms is best:
 
 ### Research
 
-🎓 Holds a joint PhD in Finance & Business Economics from the Université de Neuchâtel and the Vrije Universiteit Brussel. Please don't call me doctor.
+🎓 Holds a joint PhD from the Université de Neuchâtel (Finance) & the Vrije Universiteit Brussel (Business Economics). Just don't call me doctor.
 
-📝 Published a couple of [papers](https://scholar.google.com/citations?user=Bvk7MPoAAAAJ) about sentiment analysis of textual data and the usefulness of it in time series modeling. Is it useful? It depends.
+📝 Published [papers](https://scholar.google.com/citations?user=Bvk7MPoAAAAJ) about sentiment analysis of textual data and the usefulness of it in economic time series modeling. Is it useful? It depends.
 
 ## Personal
 
 🏠 Lives in Brussels and fancies the occasional travel (who doesn't?).
 
-🎸 Likes music from Interpol, New Order, The Cure, The National, The Smile, Khruangbin, Nicolas Jaar, RHCP, Radiohead, Arctic Monkeys, The Strokes, John Frusciante, Fontaines D.C., QOTSA, ... and more esoteric stuff. Check out some [playlists](https://open.spotify.com/user/1118114488) I've made.
+🎸 Likes music from Interpol, New Order, The Cure, The National, The Smile, Khruangbin, Nicolas Jaar, RHCP, Radiohead, Arctic Monkeys, The Strokes, John Frusciante, QOTSA, ... and more esoteric stuff. Check out some [playlists](https://open.spotify.com/user/1118114488) I've made.
 
 ⚽ Enjoys doing and watching sports, especially (indoor) football, running, beachvolley, tennis, cycling, and martial arts.
