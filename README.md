@@ -10,7 +10,7 @@ In case you want to reach out, one of these platforms is best:
 
 ## Professional
 
-📊 Typically acts the role of a **data scientist/AI engineer** but recently also had strong exposure to **web development** (Django + Next.js).
+📊 Typically acts the role of **data scientist/AI engineer** but recently also had strong exposure to **web development** (Django + Next.js).
 
 ⚡ Areas of interest to deepen my skill set include data storytelling, football analytics, MLOps, NLP, and web design.
 
